@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="hello-git/hello-git.csproj" />
+</Solution>
